@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Futura Book;
+    src: url('Futura Std/futuraStd-Book.otf');
+}
+@font-face {
+    font-family: Futura Light;
+    src: url('Futura Std/FuturaStd-Light.otf');
+}
+
+#header{
+
+
+
+}
+
+
+#header h1 {
+    text-align: center;
+    color: orangered;
+    font-size: 70px;
+    font-family: Futura Book;
+}
+
+#header p{
+    text-align: center;
+    font-family:Futura Light;
+    font-size: 30px;
+}
+
+.waves{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:89%;
+    /*height:600px;*/
+}
